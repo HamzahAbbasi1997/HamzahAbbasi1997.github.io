@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d7da34c1.css",
+    "main.js": "/static/js/main.6ec463d7.js",
+    "static/media/video.mp4": "/static/media/video.cd5473b8a60c81ae2eaf.mp4",
+    "static/media/laptop.jpg": "/static/media/laptop.347c1763d343ba4cbbf9.jpg",
+    "static/media/research3.jpg": "/static/media/research3.9d3356ecbc57a11fef08.jpg",
+    "static/media/research4.jpg": "/static/media/research4.3abd34c18aeb3136bfc1.jpg",
+    "static/media/ai.jpg": "/static/media/ai.c197ad54dbf36e7bad6b.jpg",
+    "static/media/research2.jpg": "/static/media/research2.1251eff13784cb9b032a.jpg",
+    "static/media/research1.jpg": "/static/media/research1.586c68892275349c28f1.jpg",
+    "static/media/work.jpg": "/static/media/work.6c4d91ad0983edbf6c19.jpg",
+    "static/media/arm.jpg": "/static/media/arm.738ccaa1072246389409.jpg",
+    "static/media/weipan.jpeg": "/static/media/weipan.9432b8947f176977597c.jpeg",
+    "static/media/Member3.png": "/static/media/Member3.eb46eb2657ad5c4009fa.png",
+    "static/media/Member1.jpg": "/static/media/Member1.320cb5fb9168b1c3673b.jpg",
+    "static/media/Member2.jpg": "/static/media/Member2.c2b63da44cf1604d2248.jpg",
+    "index.html": "/index.html",
+    "main.d7da34c1.css.map": "/static/css/main.d7da34c1.css.map",
+    "main.6ec463d7.js.map": "/static/js/main.6ec463d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7da34c1.css",
+    "static/js/main.6ec463d7.js"
+  ]
+}
