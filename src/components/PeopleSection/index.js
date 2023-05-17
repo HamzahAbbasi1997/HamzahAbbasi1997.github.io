@@ -14,13 +14,15 @@ import {
   SocialLogo,
   SocialMedia,
   Subtitle,
-  Title
+  Title,
+  Title2
 } from './PeopleElements';
 
 const People = () => {
   return (
-    <div id='model3'>
-        <Title className='model-title'>Staff Members</Title>
+    <div id='people'>
+        <Title className='people-title'>Staff Members</Title>
+        <Title2>There are experts in the fundamentals of AI working across The University of Manchester. As part of this new research centre, we have already recruited a number of new specialists:</Title2>
         <div className="divider"></div>
         <InfoRow className="members">
           <PeopleContainer className="member">

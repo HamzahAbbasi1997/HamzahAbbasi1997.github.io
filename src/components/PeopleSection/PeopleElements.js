@@ -77,8 +77,17 @@ export const Img = styled.img`
 export const Title = styled.h1`
     color: #fff;
     text-align: center;
-    padding-top: 100px;
+    padding-top: 120px;
     background-color: #000;
+    font-size: 40px;
+`
+
+export const Title2 = styled.h1`
+    color: #fff;
+    text-align: center;
+    padding: 50px 200px;
+    background-color: #000;
+    font-size: 32px;
 `
 
 export const Heading = styled.h1`

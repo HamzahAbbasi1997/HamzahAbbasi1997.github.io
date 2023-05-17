@@ -6,10 +6,10 @@ export const LinkContainer = styled.a`
 `
 
 export const PeopleContainer = styled.div`
-    margin: 20px 15px;
+    margin: 40px  150px;
     border-radius: 15px;
-    /* width: 400px; */
-    padding: 40px 0;
+    /* width: 200px; */
+    padding: 40px 0px;
     height: max-content;
     background-color: #fff;
     transition: all 1s;
@@ -43,7 +43,7 @@ export const PeopleContainer = styled.div`
     } */
 
     &:hover{
-        background-color: rgba(8,61,119,0.2);
+        background-color: rgba(0,0,0,0.1);
         transform: scale(1.01);
     }
 `
@@ -51,7 +51,7 @@ export const InfoRow = styled.div`
     display: grid;
     grid-auto-columns: minmax(auto, 1fr);
     align-items: center;
-    grid-template-areas: 'col1 col2 col3';
+    grid-template-areas: 'col1 col2';
 
     /* @media screen and (max-width: 768px) {
         grid-template-areas: ${({imgStart}) => (imgStart ? `'col1' 'col2' 'col3'` : `'col1 col1 col1' 'col2 col2 col2' 'col3 col3 col3'`)};
@@ -65,13 +65,14 @@ export const DescriptionContainer = styled.div`
 `
 
 export const Img = styled.img`
-    border-radius: 50%;
+    height: 300px;
+    width: 500px;
     transition: all 1s;
 
-    ${PeopleContainer}:hover &{
+    /* ${PeopleContainer}:hover &{
         transform: scale(1.1);
         border: 2px solid rgba(8,61,119);
-    }
+    } */
 `
 
 export const Title = styled.h1`
